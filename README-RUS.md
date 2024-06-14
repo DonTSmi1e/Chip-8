@@ -7,6 +7,8 @@
 - http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
 - https://github.com/Timendus/chip8-test-suite
 - http://tinyfiledialogs.sourceforge.net
+- https://github.com/kripod/chip8-roms
+- https://johnearnest.github.io/chip8Archive
 
 ## Использование
 1. **Скачайте, распакуйте и запустите последнюю версию. Закройте информационное окно.**
